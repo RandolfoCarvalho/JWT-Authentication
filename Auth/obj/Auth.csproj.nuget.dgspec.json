@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\projetos\\RestWithAsp-NET\\RestWithAsp-NET\\Auth\\Auth\\Auth.csproj": {}
+    "C:\\temp\\projetos\\JWT auth\\Auth\\Auth\\Auth.csproj": {}
   },
   "projects": {
-    "C:\\temp\\projetos\\RestWithAsp-NET\\RestWithAsp-NET\\Auth\\Auth\\Auth.csproj": {
+    "C:\\temp\\projetos\\JWT auth\\Auth\\Auth\\Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\projetos\\RestWithAsp-NET\\RestWithAsp-NET\\Auth\\Auth\\Auth.csproj",
+        "projectUniqueName": "C:\\temp\\projetos\\JWT auth\\Auth\\Auth\\Auth.csproj",
         "projectName": "Auth",
-        "projectPath": "C:\\temp\\projetos\\RestWithAsp-NET\\RestWithAsp-NET\\Auth\\Auth\\Auth.csproj",
+        "projectPath": "C:\\temp\\projetos\\JWT auth\\Auth\\Auth\\Auth.csproj",
         "packagesPath": "C:\\Users\\rando\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\projetos\\RestWithAsp-NET\\RestWithAsp-NET\\Auth\\Auth\\obj\\",
+        "outputPath": "C:\\temp\\projetos\\JWT auth\\Auth\\Auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,6 +44,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Auth0.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.5, )"
