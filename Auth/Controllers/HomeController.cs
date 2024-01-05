@@ -1,13 +1,16 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using Auth0.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Auth.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Welcome()
+        public IActionResult Index()
         {
-            return Ok("Welcome");
+            return Ok("Acesse: /Auth/Profile para realizar o login e ver as informações disponiveis");
         }
+        
     }
 }

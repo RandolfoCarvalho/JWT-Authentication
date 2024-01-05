@@ -7,23 +7,12 @@ using System.Security.Claims;
 
 public class AccountController : Controller
 {
-    public async Task Login(string returnUrl = "/")
+    public async Task Login(string returnUrl = "/auth/profile")
     {
         var authenticationProperties = new LoginAuthenticationPropertiesBuilder()
             .WithRedirectUri(returnUrl)
             .Build();
 
         await HttpContext.ChallengeAsync(Auth0Constants.AuthenticationScheme, authenticationProperties);
-    }
-
-    [Authorize]
-    public IActionResult Profile()
-    {
-        return View(new
-        {
-            Name = User.Identity.Name,
-            EmailAddress = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Email)?.Value,
-            ProfileImage = User.Claims.FirstOrDefault(c => c.Type == "picture")?.Value
-        });
     }
 }

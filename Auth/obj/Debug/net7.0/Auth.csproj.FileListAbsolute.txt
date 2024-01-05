@@ -17,14 +17,6 @@ C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\Auth.AssemblyInfo.cs
 C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\Auth.csproj.CoreCompileInputs.cache
 C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\Auth.MvcApplicationPartsAssemblyInfo.cs
 C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\Auth.MvcApplicationPartsAssemblyInfo.cache
-C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets\msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props
-C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets\msbuild.build.Auth.props
-C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Auth.props
-C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Auth.props
-C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets.pack.json
-C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets.build.json
-C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets.development.json
-C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\scopedcss\bundle\Auth.styles.css
 C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\Auth.csproj.CopyComplete
 C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\Auth.dll
 C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\refint\Auth.dll
@@ -39,3 +31,11 @@ C:\temp\projetos\JWT auth\Auth\Auth\bin\Debug\net7.0\Microsoft.IdentityModel.Pro
 C:\temp\projetos\JWT auth\Auth\Auth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\temp\projetos\JWT auth\Auth\Auth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\temp\projetos\JWT auth\Auth\Auth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets\msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets\msbuild.build.Auth.props
+C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Auth.props
+C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Auth.props
+C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets.pack.json
+C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets.build.json
+C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\staticwebassets.development.json
+C:\temp\projetos\JWT auth\Auth\Auth\obj\Debug\net7.0\scopedcss\bundle\Auth.styles.css
