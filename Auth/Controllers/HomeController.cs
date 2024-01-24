@@ -9,7 +9,7 @@ namespace Auth.Controllers
     {
         public IActionResult Index()
         {
-            return Ok("Acesse: /Auth/Profile para realizar o login e ver as informações disponiveis");
+            return Ok("Acesse: /Auth/Profile para realizacao de login");
         }
         
     }
